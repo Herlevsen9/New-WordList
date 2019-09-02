@@ -9,4 +9,6 @@ I have a list of designideas and functions that will be added as issues later on
 
 I'm open for collaboration.
 
-![New-WordList_Logo](https://user-images.githubusercontent.com/44832544/64113991-1f8d9a00-cd8c-11e9-933c-40ff1b0b556b.png)
+<p align="center">
+<img width="600" height="600" src="https://user-images.githubusercontent.com/44832544/64113991-1f8d9a00-cd8c-11e9-933c-40ff1b0b556b.png"
+</p>
